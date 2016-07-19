@@ -1,0 +1,6 @@
+name: mruby-test-depfail
+description: Failed class
+author: Uchio Kondo
+website: https://github.com/udzura/mruby-test-depfail
+protocol: git
+repository: https://github.com/udzura/mruby-test-depfail.git
